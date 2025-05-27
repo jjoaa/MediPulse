@@ -1,0 +1,34 @@
+# Node
+node_modules/
+.env
+dist/
+*.log
+npm-debug.log*
+
+# PlatformIO
+.venv/
+.pio/
+.pio/libdeps/
+.pio/build/
+.vscode/
+platformio.ini.bkp
+
+# VSCode
+*.code-workspace
+.settings/
+
+# React
+client/node_modules/
+client/build/
+client/.env
+
+# Logs
+logs
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# OS
+.DS_Store
+Thumbs.db
